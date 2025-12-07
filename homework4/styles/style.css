@@ -1,0 +1,59 @@
+body {
+  font-family: sans-serif;
+  background-color: #ff9a40;
+}
+
+form {
+  background-color: #ff7800;
+  color: #a64e00;
+  margin: 55px;
+  outline: 3px solid rgba(170, 50, 220, 0.6);
+  border-radius: 10px;
+}
+
+fieldset {
+  margin: 0;
+  border: none;
+}
+
+label,
+input {
+  display: block;
+}
+
+.form {
+  display: inline-block;
+}
+
+.form-group-title {
+  border-bottom: none;
+  margin-bottom: 1px;
+  padding-bottom: 2px;
+}
+
+.form-group {
+  border-top: none;
+  margin-top: 1px;
+  border-bottom: none;
+  padding-bottom: 5px;
+  padding-top: 0;
+}
+
+.textarea {
+  resize: vertical;
+  min-height: 20px;
+  max-height: 100px;
+}
+
+.checkbox-text {
+  display: inline;
+  cursor: pointer;
+}
+
+.text {
+  margin: 5px 0 5px 0;
+}
+button {
+  cursor: pointer;
+  margin: 0 5px 3px 12px;
+}

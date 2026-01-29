@@ -48,3 +48,9 @@
   letter-spacing: 0.04em;
   color: #858e8a;
 }
+
+@media (max-width: 765px) {
+  .menu ul {
+    gap: 25px;
+  }
+}

@@ -76,6 +76,7 @@ button.button:disabled {
 
 .section {
   margin-bottom: 140px;
+  display: none;
 }
 
 .title-large {

@@ -166,3 +166,7 @@ summary::-webkit-details-marker {
 details > p {
   padding: 0 20px;
 }
+
+.faq-text {
+  padding-bottom: 10px;
+}

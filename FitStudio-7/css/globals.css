@@ -98,7 +98,7 @@ button.button:disabled {
   margin-bottom: 140px;
 }
 
-.title__large {
+.title-large {
   max-width: 596px;
   margin-bottom: 40px;
   font-family: Oswald, sans-serif;
@@ -157,12 +157,12 @@ a:active {
     max-width: 576px;
   }
 
-  .title__large {
+  .title-large {
     font-size: 40px;
     margin-bottom: 30px;
   }
 
-  .home__page .title__large {
+  .home__page .title-large {
     text-align: center;
     max-width: initial;
   }
@@ -177,7 +177,7 @@ a:active {
     margin-bottom: 80px;
   }
 
-  .title__large {
+  .title-large {
     font-size: 32px;
   }
   .title__medium {
